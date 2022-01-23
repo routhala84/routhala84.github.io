@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>VEX Bootstrap 4 Product Landing Page </title>
+    <title>Sri Soumya Enterprises </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -68,7 +68,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center mb-5 mb-md-0">
-                    <img src="images/safety.jpg" alt="">
+                    <img src="images/safety1.jpg" alt="">
                 </div>
                 <div class="col-md-6 align-self-center text-center text-md-left">
                     <div class="block">
@@ -83,6 +83,43 @@
         </div><!-- .container close -->
     </section><!-- header close -->
 
+	<section class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 text-center mb-5 mb-md-0">
+                    <img src="images/safety2.jpeg" alt="">
+                </div>
+                <div class="col-md-6 align-self-center text-center text-md-left">
+                    <div class="block">
+                        <h1 class="font-weight-bold mb-4 font-size-60">Belive in Technology, Make the change</h1>
+                        <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                            incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing
+                            elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!</p>
+                        <a class="btn btn-main" href="#about" role="button">Buy Now With $199</a>
+                    </div>
+                </div>
+            </div><!-- .row close -->
+        </div><!-- .container close -->
+    </section><!-- header close -->
+	
+	 <section class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 text-center mb-5 mb-md-0">
+                    <img src="images/safety3.jpeg" alt="">
+                </div>
+                <div class="col-md-6 align-self-center text-center text-md-left">
+                    <div class="block">
+                        <h1 class="font-weight-bold mb-4 font-size-60">Belive in Technology, Make the change</h1>
+                        <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                            incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing
+                            elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!</p>
+                        <a class="btn btn-main" href="#about" role="button">Buy Now With $199</a>
+                    </div>
+                </div>
+            </div><!-- .row close -->
+        </div><!-- .container close -->
+    </section><!-- header close -->
 
     <!-- 
         Feature start
